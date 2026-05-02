@@ -1,11 +1,11 @@
-### Hi 👋 I'm Amin
+<h1 align="center">## Hi 👋 I'm Amin</h1>
 
-Computer Engineering student at the University of Waterloo
+<p align="center">Computer Engineering student at the University of Waterloo</p>
 
-## About Me
+### About Me
 I build full-stack applications with a focus on data, backend systems, and practical machine learning.
 
-## Skills
+### Skills
 Python • JavaScript • React • Flask • APIs • Data Analysis • Machine Learning
 <!--
 **AminMirlohii/AminMirlohii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
