@@ -4,6 +4,7 @@
 
 ## About Me
 I build full-stack applications with a focus on data, backend systems, and machine learning.
+Lately I’ve been spending a lot of time building projects and getting more comfortable with how real applications are structured, especially on the backend side. I enjoy working with APIs, handling data, and turning ideas into something that actually runs.
 
 ## Skills
 Python • JavaScript • React • Flask • APIs • Data Analysis • Machine Learning
