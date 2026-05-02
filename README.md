@@ -8,7 +8,7 @@ I build full-stack applications with a focus on data, backend systems, and machi
 ## Skills
 Python • JavaScript • React • Flask • APIs • Data Analysis • Machine Learning
 
-##Connect
+## Connect
 [LinkedIn](https://www.linkedin.com/in/aminmirlohi06/)
 <!--
 **AminMirlohii/AminMirlohii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
